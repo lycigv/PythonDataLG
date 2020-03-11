@@ -1,0 +1,2 @@
+# PythonDataLG
+ TrainingProjects
